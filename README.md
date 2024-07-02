@@ -1,6 +1,7 @@
 # Open-Source-roadmap
 Crack { Google Summer of Code - 2025 } 🚀
 
+
 Follow this plan ⬇ Contribute Early == Selection in GSoC '25
 
 
@@ -90,6 +91,7 @@ Best Web Dev. GSoC Organizations (Projects) for 2025 🚀
 4. Rocket.chat
 ➡ Various Projects (React, JavaScript, CSS)
 - GitHub Repositories: https://lnkd.in/dRB8T5UY
+
 
 5. JdeRobot
 ➡ Improving VisualStates (Python and C++, HTML, JavaScript/Node.js)
